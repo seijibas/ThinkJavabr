@@ -12,3 +12,6 @@ thinkjava.toc
 
 # Java examples
 *.class
+.classpath
+.project
+.settings
